@@ -74,6 +74,10 @@ flutter:
     - family: Pacifico
       fonts:
         - asset: fonts/Pacifico.ttf
+
+    - family: SpecialElite
+      fonts:
+        - asset: fonts/SpecialElite.ttf
         
   #
   # For details regarding fonts from package dependencies,

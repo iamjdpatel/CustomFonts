@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Comic Neue',
+              'ComicNeue',
               style: TextStyle(
                 fontFamily: 'ComicNeue',
                 fontSize: 40.0
@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
             ),
             SizedBox(height: 50),
             Text(
-              'Dancing Script',
+              'DancingScript',
               style: TextStyle(
                 fontFamily: 'DancingScript',
                 fontSize: 40.0
@@ -45,6 +45,14 @@ class HomePage extends StatelessWidget {
               'Pacifico',
               style: TextStyle(
                 fontFamily: 'Pacifico',
+                fontSize: 40.0
+              ),
+            ),
+            SizedBox(height: 50),
+            Text(
+              'SpecialElite',
+              style: TextStyle(
+                fontFamily: 'SpecialElite',
                 fontSize: 40.0
               ),
             )
